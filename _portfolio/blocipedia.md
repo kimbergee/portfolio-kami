@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blocipedia
-thumbnail-path: "img/blocipediakg.jpg"
+thumbnail-path: "img/blocipediakg1.jpg"
 short-description: Build a production quality SaaS app that allows users to create their own wikis.
 order: 2
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipediakg.jpg)
+![]({{ site.baseurl }}/img/blocipediakg1.jpg)
 
 ## Description
 
