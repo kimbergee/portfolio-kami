@@ -1,13 +1,12 @@
 ---
 title: "Ruby API gem"
 layout: post
-#date: 2016-09-30 22:10
+date: 2016-09-30 22:10
 image: /assets/images/kele-ruby.jpg
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A Ruby Gem API client to access and use the Bloc API."
-#jemoji: ''
 author: kimbergee
 externalLink: false
 ---

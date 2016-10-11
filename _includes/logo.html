@@ -1,0 +1,13 @@
+{% if page.title == "Projects"
+   or page.title == "About"
+%}{% assign showLogo = true %}{% endif %}
+
+{% if showLogo == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        <a class="link" href="{{ site.url }}">
+            <img class="selfie" src="/assets/images/kglogo.png">
+        </a>
+    </header>
+{% endif %}
+
+{% include nav.html %}

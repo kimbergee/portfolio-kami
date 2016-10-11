@@ -1,13 +1,12 @@
 ---
 title: "Wiki World"
 layout: post
-#date: 2016-01-23 22:10
+date: 2016-01-23 22:10
 image: /assets/images/wikiworld-2b.jpg
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A production quality SaaS app that allows users to create their own wikis."
-#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 author: kimbergee
 externalLink: false
 ---

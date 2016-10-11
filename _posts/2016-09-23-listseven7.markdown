@@ -1,13 +1,12 @@
 ---
 title: "ListSeven7"
 layout: post
-#date: 2016-09-23 22:10
+date: 2016-09-23 22:10
 image: /assets/images/listseven7-2.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A self-destructing to-do list application that uses rake automation."
-#jemoji: ''
 author: kimbergee
 externalLink: false
 ---
