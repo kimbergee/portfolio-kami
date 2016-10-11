@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: /assets/images/kglogo.png
 
-url: https://kimbergee.com
+url: http://kimbergee.com
 # your url: http://USERNAME.github.io
 
 permalink: /portfolio/:path/
@@ -100,5 +100,5 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
-jekyll-mentions:
-    base_url: https://github.com
+# jekyll-mentions:
+#     base_url: https://github.com
