@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/kglogo.png
+picture: /assets/images/kglogo.png
 
 url: https://kimbergee.com
 # your url: http://USERNAME.github.io
@@ -49,7 +49,7 @@ authors:
         name: Kimber Gee
         bio: web developer
         external-image: false
-        picture: assets/images/kglogo.png
+        picture: /assets/images/kglogo.png
         twitter: kimberzama
 
 
