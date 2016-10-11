@@ -1,7 +1,14 @@
 <div class="social-links">
-    {% if site.facebook %}
-        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
-            <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+
+    {% if site.github %}
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.linkedin %}
+        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
+            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
         </a>
     {% endif %}
 
@@ -23,15 +30,15 @@
         </a>
     {% endif %}
 
-    {% if site.pinterest %}
-        <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
-            <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
+    {% if site.facebook %}
+        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
+            <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
         </a>
     {% endif %}
 
-    {% if site.linkedin %}
-        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
-            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+    {% if site.pinterest %}
+        <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
+            <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
         </a>
     {% endif %}
 
@@ -44,12 +51,6 @@
     {% if site.spotify %}
         <a class="link" data-title="open.spotify.com/user/{{ site.spotify }}" href="https://open.spotify.com/user/{{ site.spotify }}" target="_blank">
             <svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
-            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
         </a>
     {% endif %}
 

@@ -42,9 +42,10 @@
         width: 75%
         font-weight: 500
         transition: all ease-in-out .2s
+        font-size: 25px
 
     > .item:hover > .url > .title
-        color: $delta
+        color: $alpha
 
     // maybe we can't nest html5 elements
     // can you help me?
@@ -60,14 +61,28 @@
         transition: all ease-in-out .2s
 
     .item:hover .url aside
-        color: $alpha
+        color: #dddddd
 
 .projects > .list > .item > .url
     > .title
         display: inline
+        font-family: "Helvetica Neue", Helvetica
+        color: $violet
+        font-weight: 300
 
     > .emoji
         display: inline
         position: relative
         top: -4px
         margin-right: 10px
+
+#works-heading
+    font-size: 40px
+    color: $alpha
+    text-align: center
+    text-transform: uppercase
+
+#proj-desc
+    text-align: center
+    font-family: "Helvetica Neue", Helvetica
+    color: $alpha

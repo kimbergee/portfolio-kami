@@ -1,0 +1,32 @@
+---
+title: "ListSeven7"
+layout: post
+#date: 2016-09-23 22:10
+image: /assets/images/listseven7-2.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A self-destructing to-do list application that uses rake automation."
+#jemoji: ''
+author: kimbergee
+externalLink: false
+---
+
+## Description
+
+ListSeven7 is self-destructing to-do list. This utility application uses rake automation to remove to-do items that are over 7 days old. The logic is that if the item has not been completed in a week, it is not important enough to be on a to-do list. The intention is to motivate users to complete their tasks ASAP.
+
+## Tools/Skills
+This application was built with Ruby on Rails. It also uses:
+
+* jQuery
+* AJAX
+* HTML/CSS/SASS
+* Bootstrap
+* Devise library for user authentication
+* SQLite3 for development and PostgreSQL for production
+
+
+## Test it Out
+
+You can see the source code on [Github](https://github.com/kimbergee/blocitoff){:target="_blank"}.
