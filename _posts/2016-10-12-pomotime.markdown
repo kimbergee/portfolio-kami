@@ -1,5 +1,6 @@
 ---
 title: "PomoTime"
+display-title:
 layout: post
 date: 2016-10-12 22:10
 image: /assets/images/pomotime.png

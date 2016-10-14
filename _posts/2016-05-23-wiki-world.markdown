@@ -1,5 +1,6 @@
 ---
 title: "Wiki World"
+display-title: 
 layout: post
 date: 2016-05-23 22:10
 image: /assets/images/wikiworld.png

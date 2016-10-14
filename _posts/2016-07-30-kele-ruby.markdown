@@ -1,5 +1,6 @@
 ---
 title: "Ruby API gem"
+display-title: "Ruby API gem"
 layout: post
 date: 2016-07-30 22:10
 image: /assets/images/kele-ruby.jpg

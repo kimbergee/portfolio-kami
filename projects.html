@@ -16,8 +16,8 @@ title: Projects
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                     <!-- <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside> -->
-                    <!-- <h3 class="title"><center>{{ post.title }}</center></h3>
-                    <br> -->
+                    <h3 class="title"><center>{{ post.display-title }}</center></h3>
+                    <br>
                     <center><img src="{{ post.image }}"></center>
                     <p id="proj-desc">{{ post.description }}</p>
                 </a>
