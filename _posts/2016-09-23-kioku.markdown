@@ -1,8 +1,8 @@
 ---
-title: "ListSeven7"
+title: "Kioku - Ruby on Rails"
 layout: post
 date: 2016-09-23 22:10
-image: /assets/images/listseven7-2.png
+image: /assets/images/kioku.png
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination
@@ -13,9 +13,10 @@ externalLink: false
 
 ## Description
 
-ListSeven7 is self-destructing to-do list. This utility application uses rake automation to remove to-do items that are over 7 days old. The logic is that if the item has not been completed in a week, it is not important enough to be on a to-do list. The intention is to motivate users to complete their tasks ASAP.
+This version of Kioku is built from scratch with Ruby on Rails. It is a self-destructing to-do list. This utility application uses rake automation to remove to-do items that are over 7 days old. The logic is that if the task has not been completed in a week, it is not important enough to be on a to-do list. The intention is to motivate users to complete their tasks ASAP and keep their lists up-to-date and relevant.
 
 ## Tools/Skills
+
 This application was built with Ruby on Rails. It also uses:
 
 * jQuery

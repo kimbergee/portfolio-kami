@@ -1,8 +1,8 @@
 ---
 title: "Wiki World"
 layout: post
-date: 2016-01-23 22:10
-image: /assets/images/wikiworld-2b.jpg
+date: 2016-05-23 22:10
+image: /assets/images/wikiworld.png
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination

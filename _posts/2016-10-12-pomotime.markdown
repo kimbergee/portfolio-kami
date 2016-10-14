@@ -1,0 +1,34 @@
+---
+title: "PomoTime"
+layout: post
+date: 2016-10-12 22:10
+image: /assets/images/pomotime.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "A simple time management system based on the Pomodoro technique."
+author: kimbergee
+externalLink: false
+---
+
+## Description
+
+PomoTime is a single-page application that offers a work and break timer to help users work efficiently. Based on the Pomodoro technique, a user can start/reset a 25 minute work session. Only after a full work session has been completed, will the timer for a 5 minute break display. After 4 completed work sessions, a longer 30 minute break timer will display for the user.
+
+Users can also record the tasks they have been working on by adding them to the "Completed Tasks" list on the left.
+
+## Tools/Skills
+
+This application was built with AngularJS. It also uses:
+
+* Firebase for auto syncing backend storage
+* UI-Router
+* Buzz Library for alert sounds
+* HTML/CSS
+* Grunt
+* NodeJS
+
+
+## Test it Out
+
+You can see the source code on [Github](https://github.com/kimbergee/bloctime){:target="_blank"}.

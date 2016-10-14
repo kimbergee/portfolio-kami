@@ -1,0 +1,31 @@
+---
+title: "Kioku - AngularFire"
+layout: post
+date: 2016-10-05 22:10
+image: /assets/images/kioku-js.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "A single-page application to-do list that auto-hides expired tasks."
+author: kimbergee
+externalLink: false
+---
+
+## Description
+
+This version of Kioku is a single-page application built with AngularJS and Firebase. Users can add tasks and set priorities for them to keep them higher on the list. Users can mark their tasks as completed or delete them if they change their mind. Tasks that have not been completed within 7 days become expired and move to a separate 'task history' list.
+
+## Tools/Skills
+
+This application was built with AngularJS. It also uses:
+
+* Firebase for auto syncing backend storage
+* UI-Router
+* HTML/CSS
+* Grunt
+* NodeJS
+
+
+## Test it Out
+
+You can see the source code on [Github](https://github.com/kimbergee/blocitoff-js){:target="_blank"}.
