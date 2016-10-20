@@ -32,4 +32,4 @@ This application was built with AngularJS. It also uses:
 
 ## Test it Out
 
-You can see the source code on [Github](https://github.com/kimbergee/bloctime){:target="_blank"}.
+You can see the source code on [Github](https://github.com/kimbergee/pomotime){:target="_blank"}.

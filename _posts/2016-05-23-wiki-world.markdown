@@ -1,6 +1,6 @@
 ---
 title: "Wiki World"
-display-title: 
+display-title:
 layout: post
 date: 2016-05-23 22:10
 image: /assets/images/wikiworld.png
@@ -33,4 +33,4 @@ This application was built with Ruby on Rails. It also uses:
 
 ## Test it Out
 
-You can see the source code on [Github](https://github.com/kimbergee/blocipedia){:target="_blank"}.
+You can see the source code on [Github](https://github.com/kimbergee/wikiworld){:target="_blank"}.

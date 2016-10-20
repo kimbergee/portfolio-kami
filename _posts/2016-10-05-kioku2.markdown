@@ -29,4 +29,4 @@ This application was built with AngularJS. It also uses:
 
 ## Test it Out
 
-You can see the source code on [Github](https://github.com/kimbergee/blocitoff-js){:target="_blank"}.
+You can see the source code on [Github](https://github.com/kimbergee/kioku-js){:target="_blank"}.
