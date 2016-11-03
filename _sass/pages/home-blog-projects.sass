@@ -17,7 +17,7 @@
             border: $epsilon 1px solid
             position: absolute
             top: -5px
-            left: 50%
+            // left: 50%
             margin-left: -5px
             background: #FFF
             box-shadow: #FFF 0 0 0 5px
@@ -77,6 +77,38 @@
         top: -4px
         margin-right: 10px
 
+.portfolio-item
+    right: 0
+    margin: 0 0 15px
+    padding-left: 25px
+    padding-right: 25px
+
+.portfolio-item > .portfolio-link
+    display: block
+    position: relative
+    margin: 0 auto
+    max-width: 400px
+
+.portfolio-item > .portfolio-link > .thumbsize
+    max-height: 300px
+
+.portfolio-item > .portfolio-caption
+    margin: 0 auto
+    padding: 0 25px 25px 25px
+    max-width: 400px
+    text-align: center
+    background-color: #fff
+
+.portfolio-item > .portfolio-caption > h3
+    font-family: $fontSans
+    text-transform: uppercase
+    color: $alpha
+    font-weight: 200
+
+.portfolio-item > .portfolio-caption > p
+    line-height: 1.3
+    color: $gama
+
 #works-heading
     font-weight: 100
     font-size: 50px
@@ -90,3 +122,10 @@
     font-size: 14px
     font-weight: 200
     color: $alpha
+
+.ion-arrow-left-c
+    font-size: 1.5em
+    color: $gama
+
+.ion-arrow-left-c:hover
+    color: $violet

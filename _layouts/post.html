@@ -8,6 +8,13 @@ layout: page
     <center><a href="{{ page.image }}"><img class="title-image" src="{{ page.image }}" alt="{{ page.title }}"></a></center>
 {% endif %}
 
+<br><br>
+<center>
+  <a href="{{ site.url }}/projects">
+    <i class="ion-arrow-left-c"></i>
+  </a>
+</center>
+
 <!-- <span class="date">
     <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
@@ -21,7 +28,7 @@ layout: page
     </div>
 {% endif %}
 
-<br><br><br>
+<br><br>
 {{content}}
 
 {% if page.blog and site.blog-nav-links %}

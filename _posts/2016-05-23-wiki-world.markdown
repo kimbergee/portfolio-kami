@@ -4,6 +4,7 @@ display-title:
 layout: post
 date: 2016-05-23 22:10
 image: /assets/images/wikiworld.png
+thumbnail: /assets/images/wikiworld-thumbnail.png
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination

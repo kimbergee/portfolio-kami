@@ -4,6 +4,7 @@ display-title: "Built with Ruby on Rails"
 layout: post
 date: 2016-09-23 22:10
 image: /assets/images/kioku-ror.png
+thumbnail: /assets/images/kioku-ror-thumbnail.png
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination

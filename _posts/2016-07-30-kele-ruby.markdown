@@ -4,6 +4,7 @@ display-title: "Ruby API gem"
 layout: post
 date: 2016-07-30 22:10
 image: /assets/images/kele-ruby.jpg
+thumbnail: /assets/images/kele-ruby-thumbnail.png
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination

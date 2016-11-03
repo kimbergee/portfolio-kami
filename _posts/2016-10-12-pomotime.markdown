@@ -4,6 +4,7 @@ display-title:
 layout: post
 date: 2016-10-12 22:10
 image: /assets/images/pomotime.png
+thumbnail: /assets/images/pomotime-thumbnail.png
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination

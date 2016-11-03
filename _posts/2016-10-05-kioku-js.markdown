@@ -4,6 +4,7 @@ display-title: "Built with AngularFire"
 layout: post
 date: 2016-10-05 22:10
 image: /assets/images/kioku-js.png
+thumbnail: /assets/images/kioku-js-thumbnail.png
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination
