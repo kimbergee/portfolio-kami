@@ -1,0 +1,34 @@
+---
+title: "Chatto"
+display-title:
+layout: post
+date: 2016-12-11 22:10
+image: /assets/images/chatto.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "A simple real-time chat application."
+author: kimbergee
+externalLink: false
+---
+
+## Description
+
+Chatto is a single-page application that allows users to chat in real-time with each other in various chat rooms. The application first prompts a user to enter a username via a modal and then saves it to the browser with cookies. Once a username is set, the user can easily click to enter any rooms that they want to chat in, or create a new room.
+
+## Tools/Skills
+
+This application was built with AngularJS. It also uses:
+
+* Firebase for real time room creation and sending messages
+* UI Bootstrap's $uibModal service
+* Cookies for setting & validating usernames
+* UI-Router
+* Grunt
+* NodeJS
+* HTML/CSS
+
+
+## Test it Out
+
+You can see the source code on [Github](https://github.com/kimbergee/chatto){:target="_blank"}.
